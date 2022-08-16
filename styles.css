@@ -36,7 +36,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: stretch;
-    padding: 6vw 16vw 6vw 16vw;
+    padding: 6vw 16vw 8vw 16vw;
     background-color:#1F2937;
     gap: 4vw;
 }
