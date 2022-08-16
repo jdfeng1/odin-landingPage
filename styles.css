@@ -7,11 +7,27 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    margin: 0;
+}
+
 .header {
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 #title {
     color: #f9faf8;
     font-size: 24px;
-    
+    padding-left: 16vw;
+}
+#navbar {
+    list-style: none;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    padding-right: 16vw;
 }
