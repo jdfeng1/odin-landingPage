@@ -167,3 +167,13 @@ body {
     border: 2px solid #f9faf8;
     font-size: 18px;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    padding: 2.4em;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
