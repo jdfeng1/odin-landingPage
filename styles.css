@@ -12,13 +12,13 @@ body {
 }
 
 .header {
-    background-color: #678bed;
+    background-color: #1F3723;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 #title {
-    color: #f4f4f4;
+    color: #f9faf8;
     font-size: 24px;
     padding-left: 14vw;
 }
@@ -37,7 +37,7 @@ body {
     justify-content: center;
     align-items: stretch;
     padding: 6vw 14vw 8vw 14vw;
-    background-color:#678bed;
+    background-color:#1F3723;
     gap: 4vw;
 }
 
@@ -56,7 +56,7 @@ body {
 
 .hero > h1 {
     font-size: 48px;
-    color: #f4f4f4;
+    color: #f9faf8;
     font-weight: 700;
     margin: 0;
     margin-bottom: -0.2em;
@@ -71,8 +71,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #463da5;
-    color: #f4f4f4;
+    background-color: #2cb161;
+    color: #f9faf8;
     padding: 0.5em 2em 0.5em 2em;
     border-radius: 8px;
     border: 0;
@@ -88,7 +88,7 @@ body {
 .section2 > h1 {
     margin: 1.5em;
     font-size: 32px;
-    color: #678bed;
+    color: #1F3723
 }
 .image-container {
     display: flex;
@@ -101,12 +101,12 @@ body {
     width: 10em;
 }
 .card > p {
-    color: #678bed;
+    color: #1F3723;
     font-size: 17px;
     margin-top: 10px;
 }
 .fake-img2 {
-    border: 4px solid #463da5;
+    border: 4px solid #2cb161;
     border-radius: 20px;
     height: 10em;
 }
@@ -117,7 +117,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    color: #678bed;
+    color: #1F3723;
 } 
 .section3 > blockquote {
     font-size: 36px;
@@ -136,11 +136,11 @@ body {
     justify-content: center;
     align-items: center;
     padding: 6vw 14vw 6vw 14vw;
-    background-color: #f4f4f4;;
+    background-color: #f9faf8;;
 }
 
 .innercontainer {
-    background-color: #463da5;
+    background-color: #2cb161;
     display:flex;
     align-items: center;
     justify-content: space-around;
@@ -149,7 +149,7 @@ body {
     border-radius: 8px;
 }
 .actiontext {
-    color: #f4f4f4;
+    color: #f9faf8;
 }
 .actiontext > h4 {
     margin: 0;
@@ -160,17 +160,17 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #463da5;
-    color: #f4f4f4;
+    background-color: #2cb161;
+    color: #f9faf8;
     padding: 0.5em 2em 0.5em 2em;
     border-radius: 8px;
-    border: 2px solid #f4f4f4;
+    border: 2px solid #f9faf8;
     font-size: 18px;
 }
 
 .footer {
-    background-color: #678bed;
-    color: #f4f4f4;
+    background-color: #1F3723;
+    color: #f9faf8;
     padding: 2.4em;
     font-size: 18px;
     display: flex;
