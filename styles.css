@@ -20,7 +20,7 @@ body {
 #title {
     color: #f9faf8;
     font-size: 24px;
-    padding-left: 16vw;
+    padding-left: 14vw;
 }
 #navbar {
     list-style: none;
@@ -29,14 +29,14 @@ body {
     display: flex;
     justify-content: space-between;
     gap: 32px;
-    padding-right: 16vw;
+    padding-right: 14vw;
 }
 
 .section1 {
     display: flex;
     justify-content: center;
     align-items: stretch;
-    padding: 6vw 16vw 8vw 16vw;
+    padding: 6vw 14vw 8vw 14vw;
     background-color:#1F2937;
     gap: 4vw;
 }
