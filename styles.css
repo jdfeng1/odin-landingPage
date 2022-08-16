@@ -77,3 +77,35 @@ body {
     border: 0;
     font-size: 18px;
 }
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 4em;
+}
+.section2 > h1 {
+    margin: 1.5em;
+    font-size: 32px;
+    color: #1F2937
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+.card {
+    flex: 1;
+    text-align: center;
+    width: 10em;
+}
+.card > p {
+    color: #1F2937;
+    font-size: 17px;
+    margin-top: 10px;
+}
+.fake-img2 {
+    border: 4px solid #3882F6;
+    border-radius: 20px;
+    height: 10em;
+}
